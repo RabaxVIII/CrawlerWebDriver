@@ -1,6 +1,6 @@
 # CrawlerWebDriver
 
-Crawler application made for a special site
+Crawler Java Maven application made for a special site
 --------------------------------
 -Examining the advertisements on the site as many as the number of pages given,
 -Then keeping the requested information of these sites,
